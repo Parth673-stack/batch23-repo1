@@ -1,0 +1,32 @@
+git init
+git add
+git commit
+git restore
+git rm --cache
+
+
+ 7 ls
+   8 git init
+   9 git init
+  10 git status
+  11 ls
+  12 git status
+  13 git add testing.py
+  14 git status
+  15 rm testing.py
+  16 git status
+  17 git add .
+  18 git status
+  19 git add testing.py
+  20 ls
+  21 git add testing.py
+  22 git status
+  23 git commit -m
+  24 git commit
+  25 git init
+  26 git add .
+  27 git status
+  28 rm testing.py
+  29 git status
+  30 git restore .
+  31 git status
