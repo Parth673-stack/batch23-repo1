@@ -20,13 +20,9 @@ git rm --cache
   19 git add testing.py
   20 ls
   21 git add testing.py
-  22 git status
-  23 git commit -m
-  24 git commit
-  25 git init
-  26 git add .
-  27 git status
-  28 rm testing.py
-  29 git status
-  30 git restore .
-  31 git status
+git status
+git add testing.py
+git commit -m "updated testing.py"
+git push origin master
+nonnver
+vebibuenron the changes isd doner
